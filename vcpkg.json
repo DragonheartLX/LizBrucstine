@@ -1,0 +1,10 @@
+{
+  "name": "liz-brucstine",
+  "version": "0.0.0-dev",
+  "dependencies": [
+    {
+      "name": "fmt",
+      "version>=": "11.0.2#1"
+    }
+  ]
+}
